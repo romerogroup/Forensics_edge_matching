@@ -10,3 +10,4 @@ MQHT/*
 *~
 .spyproject
 __pycache__
+sphinx/_build
